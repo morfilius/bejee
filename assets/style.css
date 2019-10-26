@@ -1,0 +1,16 @@
+h1{
+    margin-bottom: 40px;
+}
+
+main{
+    margin-top: 100px;
+}
+
+.articles{
+    margin-top: 30px;
+}
+
+article{
+    border-bottom: 1px solid #000;
+    margin-bottom: 30px;
+}
